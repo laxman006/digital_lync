@@ -2,11 +2,12 @@
     display: flex;
     flex-direction: column;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 30px;
     width: 600px;
     background: rgb(250, 247, 247);
-    padding-bottom: 30px;
+    padding: 30px;
     border-radius: 10px;
+    
 }
 
 .header{
@@ -15,7 +16,10 @@
     align-items: center;
     gap: 9px;
     width: 100%;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px 10px 10px 10px;
+    /* border: #000000 2px solid; */ 
 }
 .img-size{
     width: 20px;

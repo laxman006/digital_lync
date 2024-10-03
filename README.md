@@ -1,3 +1,6 @@
+FRONTEND PAGE / SIGNUP / LOGIN 
+
+
 Project photos
 ![signup-page](https://github.com/user-attachments/assets/fa209a89-bbfb-423f-aba0-e61eb23885a7)
 ![login-page](https://github.com/user-attachments/assets/c2fe01df-f1cb-4700-991a-16b5c05b8611)
